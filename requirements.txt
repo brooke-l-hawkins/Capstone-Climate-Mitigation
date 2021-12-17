@@ -1,0 +1,12 @@
+altair==4.1.0
+interpret==0.2.7
+interpret_core==0.2.7
+matplotlib==3.3.2
+numpy==1.19.2
+pandas==1.2.0
+scikit_learn==1.0.1
+scipy==1.5.2
+seaborn==0.11.1
+stargazer==0.0.5
+statsmodels==0.12.1
+watermark==2.2.0
